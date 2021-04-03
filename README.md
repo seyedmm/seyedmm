@@ -23,4 +23,4 @@
 👋Goodbye!
 
 <br><br>
-[My profile in Amigo](https://omigo.ir/seyedmm)
+[My profile in Omigo](https://omigo.ir/seyedmm)
