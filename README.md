@@ -10,7 +10,7 @@
 
 🤔I am not sure
 
-👨‍🎓I focused my learning on Python
+👨‍🎓I focused my learning on HTML
 
 ⏰Because I think it has a future
 
@@ -18,9 +18,6 @@
 
 📝In [Omigo](https://omigo.ir)
 
-🧐For now, I'm focusing on pythonestan
+🧐For now, I'm focusing on [my URL](https://seyedmm.github.io)
 
 👋Goodbye!
-
-<br><br>
-[My profile in Omigo](https://omigo.ir/seyedmm)
