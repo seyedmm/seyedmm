@@ -29,8 +29,12 @@
 
 <img style="display:block; margin:auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyedmm&layout=compact&theme=chartreuse-dark">
 
-<b><b><b><b>
+
 
 <img style="display:block; margin:auto;" src="https://github-readme-stats.vercel.app/api?username=seyedmm&show_icons=true&theme=chartreuse-dark">
 
-</a> 
+</a>
+  
+  
+  
+(I could not take the pictures in the middle. can you help me? Create an Issue!)
