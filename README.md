@@ -3,9 +3,9 @@
 
 
 
-<img style="display:block; margin:auto;" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Micropython-logo.svg">
+<img style="display:block; margin:auto;" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Micropython-logo.svg" width="200">
 
-<img style="display:block; margin:auto;" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/MicroPython_new_logo.svg">
+<img style="display:block; margin:auto;" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/MicroPython_new_logo.svg" width="200">
 
 
 
@@ -27,11 +27,11 @@
 
 <a href="https://github.com/seyedmm">
 
-<img style="display:block; margin:auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyedmm&layout=compact&theme=chartreuse-dark">
-
 
 
 <img style="display:block; margin:auto;" src="https://github-readme-stats.vercel.app/api?username=seyedmm&show_icons=true&theme=chartreuse-dark">
+
+<img style="display:block; margin:auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyedmm&layout=compact&theme=chartreuse-dark">
 
 </a>
   
