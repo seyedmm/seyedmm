@@ -23,7 +23,7 @@
 ![](https://img.shields.io/badge/language-css3-blue?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/age-14-blue?style=for-the-badge)
 ![](https://img.shields.io/badge/living-isfahan,%20iran-blue?style=for-the-badge)
-
+[![](https://img.shields.io/badge/links-click%20on%20this%20badge-FF0E3A?style=for-the-badge)](https://redl.ink/seyedmm)
 
 <a href="https://github.com/seyedmm">
 
