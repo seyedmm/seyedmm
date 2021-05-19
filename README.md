@@ -2,11 +2,11 @@
 # Hi<img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width=30px>, I'm [Seyedmahdi!](https://redl.ink/seyedmm)
 
 
-<center>
+<p align="center">
 <img style="display:block; margin:auto;" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Micropython-logo.svg">
 
 <img style="display:block; margin:auto;" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/MicroPython_new_logo.svg">
-<center/>
+</p>
 
 
 >[Python](https://python.org) developer, [micropython](https://micropython.org) beginner
