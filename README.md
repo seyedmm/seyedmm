@@ -1,12 +1,12 @@
 
-# Hi<center><img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width=30px><center/>, I'm [Seyedmahdi!](https://redl.ink/seyedmm)
+# Hi<img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width=30px>, I'm [Seyedmahdi!](https://redl.ink/seyedmm)
 
 
-
+<center>
 <img style="display:block; margin:auto;" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Micropython-logo.svg">
 
 <img style="display:block; margin:auto;" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/MicroPython_new_logo.svg">
-
+<center/>
 
 
 >[Python](https://python.org) developer, [micropython](https://micropython.org) beginner
