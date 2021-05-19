@@ -1,5 +1,5 @@
 
-# Hi<img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width=30px>, I'm [Seyedmahdi!](https://redl.ink/seyedmm)
+# Hi<center><img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width=30px><center/>, I'm [Seyedmahdi!](https://redl.ink/seyedmm)
 
 
 
@@ -34,7 +34,3 @@
 <img style="display:block; margin:auto;" src="https://github-readme-stats.vercel.app/api?username=seyedmm&show_icons=true&theme=chartreuse-dark">
 
 </a>
-  
-  
-  
-(I could not take the pictures in the middle. can you help me? Create an Issue!)
