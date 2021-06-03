@@ -2,11 +2,11 @@
 # Hi<img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width=30px>, I'm [Seyedmahdi!](https://redl.ink/seyedmm)
 
 
-
+<p align="center">
 <img style="display:block; margin:auto;" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Micropython-logo.svg">
 
 <img style="display:block; margin:auto;" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/MicroPython_new_logo.svg">
-
+</p>
 
 
 >[Python](https://python.org) developer, [micropython](https://micropython.org) beginner
@@ -26,15 +26,11 @@
 [![](https://img.shields.io/badge/links-click%20on%20this%20badge-FF0E3A?style=for-the-badge)](https://redl.ink/seyedmm)
 
 <a href="https://github.com/seyedmm">
-
+<p align="center">
 <img style="display:block; margin:auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyedmm&layout=compact&theme=chartreuse-dark">
 
 
 
 <img style="display:block; margin:auto;" src="https://github-readme-stats.vercel.app/api?username=seyedmm&show_icons=true&theme=chartreuse-dark">
-
+</p>
 </a>
-  
-  
-  
-(I could not take the pictures in the middle. can you help me? Create an Issue!)
