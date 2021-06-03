@@ -28,9 +28,7 @@
 <a href="https://github.com/seyedmm">
 <p align="center">
 <img style="display:block; margin:auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyedmm&layout=compact&theme=chartreuse-dark">
-
-
-
+<br><br><br>
 <img style="display:block; margin:auto;" src="https://github-readme-stats.vercel.app/api?username=seyedmm&show_icons=true&theme=chartreuse-dark">
 </p>
 </a>
