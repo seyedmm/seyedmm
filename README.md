@@ -32,4 +32,8 @@
 <img style="display:block; margin:auto;" src="https://github-readme-stats.vercel.app/api?username=seyedmm&show_icons=true&theme=chartreuse-dark">
 </p>
 </a>
-<a href="https://coffeebede.ir/buycoffee/seyedmm"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
+<a href="https://coffeebede.ir/buycoffee/seyedmm">
+  <p align="center">
+    <img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" />
+  </p>
+</a>
