@@ -30,9 +30,12 @@
 <img style="display:block; margin:auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyedmm&layout=compact&theme=chartreuse-dark">
 <br><br><br>
 <img style="display:block; margin:auto;" src="https://github-readme-stats.vercel.app/api?username=seyedmm&show_icons=true&theme=chartreuse-dark">
+<br><br><br>
+<img style="display:block; margin:auto;" src="http://github-readme-streak-stats.herokuapp.com?user=seyedmm&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D">
 </p>
 </a>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=seyedmm&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
 <a href="https://coffeebede.ir/buycoffee/seyedmm">
   <p align="center">
     <img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" />
